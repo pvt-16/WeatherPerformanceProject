@@ -1,4 +1,6 @@
 # WeatherPerformanceProject
  Weather Performance Project
  
- This is from Avanti
+
+Description - Analyzing data collected from Train and Weather stations
+
